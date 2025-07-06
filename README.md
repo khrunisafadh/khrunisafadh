@@ -13,10 +13,14 @@ What I'm up to:
 
 ✔️ Always excited about team projects and hackathons
 
+
 I'm starting to explore open-source and would love to connect with fellow developers!
 
+
 Let's chat:
+
 📧 2310512061@mahasiswa.upnvj.ac.id
+
 💼 https://www.linkedin.com/in/khoirunnisa-fadilah-a349ba201/ 
 <!--
 **khrunisafadh/khrunisafadh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
