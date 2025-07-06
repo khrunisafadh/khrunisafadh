@@ -4,9 +4,13 @@ I'm Khoirunnisa Fadilah (you can call me Icha)
 I'm currently in my fourth semester studying Information Systems at UPN "Veteran" Jakarta. Coding has become my passion, especially when it comes to building web applications and solving problems through programming.
 
 What I'm up to:
+
 ✔️ Learning Full-Stack Web Development (slowly but surely!)
+
 ✔️ Working with HTML, CSS, JavaScript, and PHP
+
 ✔️ Just finished a cool inventory system project in C for class
+
 ✔️ Always excited about team projects and hackathons
 
 I'm starting to explore open-source and would love to connect with fellow developers!
