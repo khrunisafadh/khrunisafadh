@@ -1,3 +1,5 @@
+##👋 Hi, I’m Khoirunnisa Fadilah (Icha) 
+
 I’m an Information Systems student at UPN “Veteran” Jakarta who loves turning ideas into simple digital solutions—whether through code, UI design, or organizing things behind the scenes.
 
 I'm currently exploring what I enjoy most between data, system analysis, and web development—and learning along the way is what makes it fun!
