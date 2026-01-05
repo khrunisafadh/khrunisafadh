@@ -26,7 +26,7 @@ I'm currently exploring what I enjoy most between data, system analysis, and web
 
 I believe growth doesn’t come from perfection—but from showing up, staying curious, and building consistently.
 
-📫 Reach me at:
+## 📫 Reach me at:
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khrunisafadh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khoirunnisa-fadilah-a349ba201/ ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khoirunnisafadilah05@gmail.com) 
 
